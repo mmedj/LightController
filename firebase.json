@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "projet-iot",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "projet-iot-9d0dc": {
+      "hosting": {
+        "projet-iot": [
+          "projet-iot-9d0dc"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "projet-iot-9d0dc"
+  }
+}
